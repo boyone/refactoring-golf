@@ -1,4 +1,4 @@
-package movierental.refactotring10;
+package movierental.refactotring13;
 
 public class Rental {
 

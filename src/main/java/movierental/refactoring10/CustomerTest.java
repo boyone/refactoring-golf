@@ -1,4 +1,4 @@
-package movierental.refactotring11;
+package movierental.refactoring10;
 
 import org.junit.Test;
 

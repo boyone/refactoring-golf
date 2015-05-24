@@ -1,4 +1,4 @@
-package movierental.refactotring10;
+package movierental.refactoring10;
 
 import java.util.ArrayList;
 import java.util.List;

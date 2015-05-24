@@ -1,4 +1,4 @@
-package movierental.refactotring11;
+package movierental.refactotring14;
 
 public class Movie {
 
@@ -44,5 +44,11 @@ public class Movie {
                 break;
         }
         return amount;
+    }
+
+    int getFrequentRenterPoints(int daysRented) {
+        if (priceCode == NEW_RELEASE && daysRented > 1)
+            return 2;
+        return 1;
     }
 }
